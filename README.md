@@ -16,7 +16,7 @@
 ROAR is an AI-powered learning platform that helps students and educators create interactive learning materials effortlessly. Our suite of tools transforms how educational content is created, consumed, and understood.
 
 <p align="center">
-  <img src="./public/screenshots/interface.svg" alt="ROAR Interface" width="700" />
+  <img src="./public/screenshots/interface.png" alt="ROAR Interface" width="700" />
 </p>
 
 ## ✨ Features
