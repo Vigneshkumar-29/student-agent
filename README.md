@@ -1,7 +1,7 @@
 # ROAR AI Learning Platform
 
 <div align="center">
-  <img src="./public/logo.svg" alt="ROAR AI Learning Platform" width="200"/>
+  <img src="./public/logo.jpg" alt="ROAR AI Learning Platform" width="200"/>
   <p><strong>AI-powered educational tools for interactive learning</strong></p>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
